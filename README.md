@@ -6,3 +6,4 @@ Some description!
 watch 
 test
 up to date
+check ssh
