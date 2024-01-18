@@ -7,3 +7,6 @@ watch
 test
 up to date
 check ssh
+
+##local Developt
+1. open iddenx
